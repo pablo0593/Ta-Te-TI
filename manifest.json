@@ -2,8 +2,8 @@
 	"name":"tateti PWA",
 	"short_name":"TATETI",
 	"start_url":"index.html",
-	"display":"stanalong",
-	"orientation":"portrail-primary",
+	"display":"standalone",
+	"orientation":"portrait-primary",
 	"theme_color":"rgba(217,241,219)",
 	"background_color":"rgba(217,241,219)"
 }
