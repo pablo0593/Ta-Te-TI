@@ -4,6 +4,6 @@
 	"start_url":"index.html",
 	"display":"stanalong",
 	"orientation":"portrail-primary",
-	"theme_color":"rgb(217,241,219)",
-	"background_color":"rgb(217,241,219)"
+	"theme_color":"rgba(217,241,219)",
+	"background_color":"rgba(217,241,219)"
 }
